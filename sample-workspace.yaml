@@ -4,7 +4,7 @@ metadata:
 projects:
   - name: console-java-simple
     source:
-      location: 'http://10.97.25.230:8080/resources/java-maven-console-java-simple-java1.11.zip'
+      location: 'https://github.com/manojsaxenatda/intellij-community/blob/main/java-maven-console-java-simple-java1.11.zip'
       type: zip
 components:
   - type: cheEditor
